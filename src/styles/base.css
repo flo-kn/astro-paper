@@ -135,12 +135,11 @@
 }
 
 .profile-picture {
-  width: 15rem;
+  width: 23rem;
   height: 15rem;
   border-radius: 100%;; /* This makes it circular */
-  border: 0.5rem solid #57cc8a;  
+  border: 0.3rem solid #57cc8a;  
   overflow: hidden; /* This ensures the image doesn't spill outside the circle */
   object-fit: cover; /* This ensures the image covers the entire area */
 }
 
-  
