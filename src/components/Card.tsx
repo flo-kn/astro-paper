@@ -29,7 +29,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         )}
       </a>
       <Datetime datetime={pubDatetime} />
-      <p>{description}</p>
+      {/* <p>{description}</p> */}
     </li>
   );
 }
