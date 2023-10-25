@@ -44,10 +44,6 @@ const FormattedDatetime = ({ datetime }: { datetime: string | Date }) => {
   return (
     <>
       {date}
-      {/* for now wwe keep it simple and dont show the time of the day */}
-      {/* <span aria-hidden="true"> | </span> */}
-      {/* <span className="sr-only">&nbsp;at&nbsp;</span> */}
-      {/* {time} */}
     </>
   );
 };
