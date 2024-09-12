@@ -105,13 +105,13 @@ The easiest way to run this project locally is to run the following command in y
 
 ```bash
 # npm 6.x
-npm create astro@latest --template satnaing/astro-paper
+npm create astro@latest --template flo-kn/astro-paper
 
 # npm 7+, extra double-dash is needed:
-npm create astro@latest -- --template satnaing/astro-paper
+npm create astro@latest -- --template flo-kn/astro-paper
 
 # yarn
-yarn create astro --template satnaing/astro-paper
+yarn create astro --template flo-kn/astro-paper
 ```
 
 ## Google Site Verification (optional)
